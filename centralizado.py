@@ -27,4 +27,4 @@ class BalanceadorCentralizado(BalanceadorBase):
             t.join()
         
         self.mostrar_resultados()
-        self.mostrar_resultados()
+        
